@@ -10,7 +10,7 @@ There are three projects:
 - Build a Real-Time Application Fraud Algorithm. Used 1,000,000 records of synthetic applications data (PII data). Supervised Models. 
 
 
-- Build a supervised fraud model on the card transaction data. There were bout 96,000 records, ~1,000 frauds. Final report is also included in the repo.
+- Build a supervised fraud model on the card transaction data. There were bout 96,000 records, ~1,000 frauds. The final report is also included in the repo.
 
 
 
